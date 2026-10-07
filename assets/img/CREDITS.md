@@ -10,7 +10,8 @@ Nothing was taken from twincitiesairsoft.com.
 
 | File | Pexels ID | Stands in for |
 |---|---|---|
-| PLACEHOLDER-hero-cqb-breach.webp / hero-mobile.webp | 37002522 | hero — CQB structure, masked adult player |
+| PLACEHOLDER-hero-front.webp / hero-front-mobile.webp | 30042215 | hero — masked adult player facing camera (mirrored; two small chest patches blurred) |
+| PLACEHOLDER-hero-cqb-breach.webp / hero-mobile.webp | 37002522 | previous hero, now unused (spare) |
 | PLACEHOLDER-park-cement-block.webp | 34340837 | cement-block cities |
 | PLACEHOLDER-park-castle.webp | 29383949 | giant two story castle |
 | PLACEHOLDER-park-cqb-interior.webp | 6555079 | CQB cities |
