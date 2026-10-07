@@ -1,0 +1,14 @@
+# Netlify / Cloudflare Pages — only used if Twin Cities Airsoft signs and the site migrates.
+# [REDIRECT MAP — ENUMERATE CURRENT PAGE PATHS, CONFIRM] — every line below must be checked against the live site first.
+
+# Special Events pages live under /specials/*.html on the current site. Keep them resolving.
+/specials/*            /events.html              301
+
+# Likely legacy page names (unverified — confirm against the live site before launch)
+# /index.htm            /                         301
+# /rules.html           /rules-chrono.html        301
+# /rentals.html         /walk-on-pricing.html     301
+# /private.html         /private-groups.html      301
+# /directions.html      /plan-your-visit.html     301
+
+# The waiver is third-party hosted (vantora.com/Paintball/stpp/waiver/) — not ours to change or redirect.
